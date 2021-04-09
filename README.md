@@ -1,2 +1,1 @@
-# store-domain-system-example
-## Основной проект находится в ##Store-model 
+## store-domain-system-example
